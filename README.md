@@ -47,16 +47,6 @@
 
 ---
 
-## 📸 Скриншоты
-
-<div align="center">
-
-| Classic | Neon | Cyberpunk |
-|:---:|:---:|:---:|
-| ![Classic](screenshots/main.png) | ![Neon](screenshots/neon.png) | ![Cyberpunk](screenshots/cyberpunk.png) |
-
-</div>
-
 ---
 
 ## 🚀 Установка
