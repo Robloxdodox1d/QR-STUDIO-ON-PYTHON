@@ -53,7 +53,7 @@
 
 ### 1. Клонируй репозиторий
 ```bash
-git clone https://github.com/username/qr-studio.git
+git clone https://github.com/Robloxdodox1d/QR-STUDIO-ON-PYTHON.git
 cd qr-studio
 ```
 
@@ -128,7 +128,7 @@ python qr_studio.py
 
 PR'ы приветствуются! Если есть идеи:
 
-- 🐛 **Баг** — открывай [issue](https://github.com/username/qr-studio/issues) с описанием и скриншотом
+- 🐛 **Баг** — открывай [issue](https://github.com/Robloxdodoxd1/qr-studio/issues) с описанием и скриншотом
 - 💡 **Идея** — сначала обсуди в issue, потом делай PR
 - 🎨 **Новый пресет** — добавь в `PRESETS` (словарь в начале `qr_studio.py`) и пришли скриншот
 
